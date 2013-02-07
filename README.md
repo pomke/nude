@@ -25,5 +25,6 @@ installing nude
 
 Nude is a single python file, it requires python-gtk and python-wnck which you
 can probably manage installing yourself with apt or something. Then simply run
-./nude.py&, perhaps from your ~/.xsession, or perhaps some other way. 
+./nude.py&, perhaps from your ~/.xsession, add it to startup applications by
+running gnome-session-properties or find some other way to run it on startup :)
 
